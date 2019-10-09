@@ -8,5 +8,6 @@ public class MyTest {
         List<String>  lists=new ArrayList<>();
         lists.add("1");
         lists.add("2");
+        int i=0;
 }
 }
