@@ -14,5 +14,6 @@ public class Text {
     public static void main(String[] args) {
         int q=1;
         int w=1;
+        int  rrr=0;
     }
 }
