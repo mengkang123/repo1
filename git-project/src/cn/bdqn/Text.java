@@ -13,5 +13,6 @@ package cn.bdqn;/**
 public class Text {
     public static void main(String[] args) {
         int q=1;
+        int w=1;
     }
 }
