@@ -9,5 +9,7 @@ public class MyTest {
         lists.add("1");
         lists.add("2");
         int i=0;
+        int j=0;
+        int k=0;
 }
 }
